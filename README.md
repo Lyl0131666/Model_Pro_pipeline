@@ -1,6 +1,6 @@
 # Model_Pro_pipeline
 
-# Seismic Data Preprocessing Pipeline / 地震数据预处理流水线
+# Seismic Data Preprocessing Pipeline / 地震数据预处理流
 
 本项目包含一套完整的数据处理流程，旨在将原始的 MiniSEED 地震波形数据转换为适用于深度学习模型的标准化 HDF5 数据集。处理流程主要分为三个阶段：**格式转换与预处理**、**数据标注**以及**数据切片**。
 
